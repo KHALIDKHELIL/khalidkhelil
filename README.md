@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/khalidkhelil" target="blank"><img src="https://img.shields.io/twitter/follow/khalidkhelil?logo=twitter&style=for-the-badge" alt="khalidkhelil" /></a> </p>
 
-- 🔭 I’m currently working on **my Js And React Native skills**
+- 🔭 I’m currently working on **my Laravel skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KHALIDKHELIL/khalidkhelil](https://github.com/KHALIDKHELIL/khalidkhelil)
 
