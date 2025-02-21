@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KHALIDKHELIL/khalidkhelil](https://github.com/KHALIDKHELIL/khalidkhelil)
 
-- 💬 Ask me about **laravel , Java , C**
+- 💬 Ask me about **laravel , Java , C , C++ **
 
 - 📫 How to reach me **khalidkhelil19@gmail.com**
 
