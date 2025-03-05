@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **my Laravel skills**
 
-- 💬 Ask me about **laravel , Java , C  **
+- 💬 Ask me about **laravel** , **Java** , **C**
 
 - 📫 How to reach me **khalidkhelil19@gmail.com**
-
-- 📄 Know about my experiences [https://khallidium.netlify.app/](https://khallidium.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
